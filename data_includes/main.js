@@ -45,7 +45,7 @@ newTrial("welcome",
       newTextInput("DRE")
     .css("font-size","1.2em")
     .print()
-     )
+     ,
     newText("<p>Agora selecione sua ESCOLARIDADE na caixa abaixo e aperte &quot;Start&quot; para come&ccedil;ar!</p>")
     .css("font-size","1.2em")
     .print()
@@ -81,7 +81,7 @@ newTrial("welcome",
     newVar("DRE")
         .global()
         .set( getTextInput("DRE") )
-        
+       ) 
     .log( "ID" , getVar("ID") )
     .log( "EMAIL" , getVar("EMAIL") )
     .log( "AGE" , getVar("AGE") )
