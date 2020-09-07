@@ -151,11 +151,11 @@ defaultText
     .remove()
     ,
     
-  newImage("A",variable.ImagefileA)
+  newImage("A",variable.ImageFileA)
           .size(200,200)
             //.print
         ,
-        newImage("B",variable.ImagefileB)
+        newImage("B",variable.ImageFileB)
             .size(200,200)
             //.print 
             ,
@@ -214,11 +214,11 @@ defaultText
     getText("frase")
     .remove()
     ,
-  newImage("A",variable.ImagefileA)
+  newImage("A",variable.ImageFileA)
             .size(200,200)
             //.print
         ,
-        newImage("B",variable.ImagefileB)
+        newImage("B",variable.ImageFileB)
             .size(200,200)
             //.print 
             ,
