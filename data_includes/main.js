@@ -184,7 +184,7 @@ defaultText
     .css("font-size","1.2em")
     .print()
     ,
-       newText("<p>Agora que voc&ecirc j&aacute;, praticou vamos iniciar o experimento. </p>")
+       newText("<p>Agora que voc&ecirc j&aacute; praticou vamos iniciar o experimento. </p>")
         ,
         newText("<p>Clique em &quot;Iniciar&quot; quando estiver pronto para come&ccedil;ar.</p>")
         ,
